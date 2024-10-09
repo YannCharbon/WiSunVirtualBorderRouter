@@ -1,3 +1,6 @@
 [submodule "WiSunMBRBackboneLink"]
 	path = WiSunMBRBackboneLink
 	url = https://github.com/YannCharbon/WiSunMBRBackboneLink
+[submodule "WiSunBorderRouterManager"]
+	path = WiSunBorderRouterManager
+	url = https://github.com/YannCharbon/WiSunBorderRouterManager
